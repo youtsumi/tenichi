@@ -1,6 +1,8 @@
 tenichi
 =======
 this script assumes an input file such as the following:
+
+```
 $ cat date 
 02/05 新天地店(広島)
 03/09 今出川店(京都)
@@ -24,5 +26,6 @@ $ cat date
 12/18 北白川総本店(京都)
 12/24 海田店(広島)
 12/28 神田店(東京)
+```
 
 month and date must be written in 2 digits
